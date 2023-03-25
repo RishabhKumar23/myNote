@@ -1,0 +1,23 @@
+javaScript
+{
+    name: Ternary Operator,
+    syntex: contition ? do if true : do if false,
+    example: isCloudy === true ? bringUmbrella() : bringSunscreen()
+}
+
+and oprator in React
+{
+    name: and operator,
+    syntex: condition && expression
+}
+
+{
+    name: Declarative Programming,
+    syntex: 
+}
+
+{
+    name: imperative Programming,
+    syntex: ,
+    example: document.getElementById('root).style.textDecoration = "line-through"
+}
